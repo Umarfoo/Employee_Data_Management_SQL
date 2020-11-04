@@ -1,4 +1,4 @@
-# SQL - Employees Data Management
+# SQL - Employees Database Management
 
 ## Background
 
