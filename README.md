@@ -16,7 +16,7 @@ In this assignment, I designed the tables to hold data in the CSVs, imported the
 
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. After designing the following is the ERD of the database [ERD](EmployeeSQL/QuickDBD-EmployeesData.png)
+Inspect the CSVs and sketch out an ERD of the tables. After designing the following is the ERD of the database [ERD](EmployeeSQL/QuickDBD-Employees Data.png)
 
 #### Data Engineering
 
